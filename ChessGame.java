@@ -2,20 +2,7 @@ package secondGame;
 import hsa2.GraphicsConsole;
 import java.awt.Color;
 import java.awt.Font;
-/*  
-    Final project: Chess game
-    Kevin Li
-    1/23/2023
-    Jan 12      I planned for my project
-    Jan 13		I made the graph and set the chess pons on the graph.
-    Jan 14		I made the appearance of the chess pieces made them clickable
-    Jan 15		I made the pons can move around in their range
-    Jan 16		I made check castling, en passant, and return en passant 
-    Jan 17		I organized my codes
-    Jan 18		I add check king. A king cannot move to a dead place and when a king is dead, the game ends.
-    Jan 19		I organized my codes
-    Jan 20		I add comments and organized my codes
-*/
+
 
 public class ChessGame {
     public static void main(String [] args) {
